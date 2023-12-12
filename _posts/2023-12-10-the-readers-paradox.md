@@ -2,7 +2,7 @@
 layout: post
 title:  "The readers paradox"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ wisdom, reflection, self ]
 image: assets/images/readers-paradox.png
 featured: true
 hidden: true

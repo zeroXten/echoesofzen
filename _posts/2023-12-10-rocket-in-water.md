@@ -2,7 +2,7 @@
 layout: post
 title:  "A rock in the water"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ relationships, anger ]
 image: assets/images/rock.png
 ---
 

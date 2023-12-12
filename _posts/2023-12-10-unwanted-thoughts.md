@@ -2,7 +2,7 @@
 layout: post
 title:  "Unwanted toughts"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ thoughts ]
 image: assets/images/dirty-water.png
 ---
 In a Zen monastery, there was a young monk who struggled with unwanted thoughts. Despite his efforts to focus on his meditation and teachings, these thoughts would often arise, causing him distress.

@@ -2,7 +2,7 @@
 layout: post
 title:  "The broken cup"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ impermanence ]
 image: assets/images/broken-cup.png
 ---
 In a secluded Zen monastery, an old master known for his profound teachings called his students for a lesson on impermanence. He held up a beautifully crafted ceramic cup, one that had been used by generations of monks.

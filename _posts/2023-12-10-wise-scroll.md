@@ -2,7 +2,7 @@
 layout: post
 title:  "A wise scroll"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ wisdom, learning ]
 image: assets/images/mirror.png
 featured: true
 hidden: true

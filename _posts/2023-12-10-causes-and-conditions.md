@@ -2,7 +2,7 @@
 layout: post
 title:  "Causes and Conditions"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ causes, conditions ]
 image: assets/images/curved-tree.png
 ---
 In a Zen monastery, there was an old master known for his deep understanding of the nature of the mind. One day, a young monk approached him, troubled by the behavior of a fellow monk who was difficult and unkind.

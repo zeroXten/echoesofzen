@@ -2,7 +2,7 @@
 layout: post
 title:  "An unlikely flower"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ anxiety ]
 image: assets/images/flower.png
 ---
 In the tranquil Digital Lotus Temple, a student named Yuna approached Master Gento, her mind clouded with anxiety and worry. "Master Gento," she said, "my heart is heavy with worry, and my mind races with anxious thoughts. How can I find peace?"

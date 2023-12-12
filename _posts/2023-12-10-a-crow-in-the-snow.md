@@ -2,7 +2,7 @@
 layout: post
 title:  "A crow in the snow"
 author: Fraser
-categories: [ Jekyll, tutorial ]
+categories: [ relationships, difficulty ]
 image: assets/images/crow-snow.png
 ---
 
