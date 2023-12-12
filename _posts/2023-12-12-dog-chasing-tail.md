@@ -3,7 +3,7 @@ layout: post
 title:  "The dog's tail"
 author: Fraser
 categories: [ frustration ]
-image: assets/images/dog-tail.png
+image: assets/images/dogs-tail.png
 ---
 
 In the same village where Master Gento lived, there was a villager known for his quick temper and constant frustration. He would often be seen arguing with his neighbors, grumbling about his work, and generally finding fault with everything around him.
