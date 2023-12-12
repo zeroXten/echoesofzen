@@ -2,7 +2,7 @@
 layout: post
 title:  "The empty cup"
 author: Fraser
-categories: [ time, practice ]
+categories: [ time management, practice ]
 image: assets/images/empty-cup.png
 ---
 In a small village, there was a devoted Zen practitioner named Hana, known for her deep commitment to meditation. She was also a mother of three young children, and her days were filled with the bustling activities of family life. Despite her love for meditation, Hana found it increasingly difficult to find a quiet moment for her practice.
