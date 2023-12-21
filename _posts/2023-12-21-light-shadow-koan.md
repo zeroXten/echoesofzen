@@ -2,7 +2,7 @@
 layout: post
 title:  "Light and shadow koan"
 author: Fraser
-categories: [ dharma, struggle ]
+categories: [ koan, self, anatta ]
 image: assets/images/light-shadow.jpeg
 ---
 A monk asked the Zen master, "In the interplay of light and shadow, where does the true self dwell?"
