@@ -44,13 +44,13 @@ A fascinating insight into the history and "evolution" of religion. The author d
 Author: Stephen Batchelor\
 Goodreads: <https://www.goodreads.com/en/book/show/90557>
 
-## Summary
+### Summary
 
 Batchelor, a former monk in both the Tibetan and Zen traditions, presents Buddhism as a practical, secular approach to life, focusing on its philosophical and ethical aspects rather than religious beliefs or metaphysical doctrines.
 
 The book advocates for a version of Buddhism grounded in critical inquiry and personal experience. Batchelor emphasizes the core Buddhist practices of mindfulness and compassion, suggesting that they can lead to a deeper understanding of the human condition and a more fulfilled life. He challenges the reader to view the Buddha not as a religious icon but as a human being who taught a way of life based on awareness, ethical conduct, and meditation.
 
-## What I got out of it
+### What I got out of it
 
 I need to finish this book.
 
