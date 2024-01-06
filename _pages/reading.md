@@ -3,13 +3,9 @@ layout: page
 title: Reading list
 permalink: /reading
 comments: true
-toc:
-    min_level: 1
-    max_level: 3
-    list_class: toc
-    list_class: toc__list
-    sublist_class: toc__sublist
 ---
+* TOC
+{:toc}
 
 # Philosophy and Religion
 
