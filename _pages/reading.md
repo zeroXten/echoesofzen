@@ -9,8 +9,8 @@ comments: true
 
 ## Truth: Philosophy in Transit
 
-Author: John D. Caputo
-Goodreads: https://www.goodreads.com/en/book/show/19070514
+Author: John D. Caputo\
+Goodreads: <https://www.goodreads.com/en/book/show/19070514>
 
 ### Summary
 
@@ -24,8 +24,8 @@ Without falling into the trap of Relativism, this book has helped me break free 
 
 ## God: A Human History
 
-Author: Reza Aslan
-Goodreads: https://www.goodreads.com/book/show/34101725-god
+Author: Reza Aslan\
+Goodreads: <https://www.goodreads.com/book/show/34101725-god>
 
 ### Summary
 
