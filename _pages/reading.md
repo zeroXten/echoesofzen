@@ -106,13 +106,13 @@ This is on the To Read list. I heard about it from the Zen Studies Podcast: <htt
 Author: James Nestor\
 Goodreads: <https://www.goodreads.com/book/show/48890486-breath>
 
-## Summary
+### Summary
 
 This book explores the often-overlooked importance of breathing and its impact on health and well-being. Nestor combines scientific research, historical context, and personal experimentation to reveal how modern humans have lost the art of proper breathing, leading to numerous health issues.
 
 The book delves into the evolution of human respiratory physiology and how changes in our lifestyle and environment have led to chronic breathing dysfunctions. Nestor investigates various breathing techniques from around the world, examining their physiological effects and potential health benefits.
 
-## What I got out of it
+### What I got out of it
 
 Apparently I have been taking breathing for granted. This was an eye opening book on the importance of different breathing techniques, especially breathing through your nose. Some of the science is a bit speculative, but the author makes no attempt to hide that fact. It provides a good physiological explanation for the importance of breathing in meditation, beyond just being an object of attention. At the end of the book he makes a brief by intriguing suggestion that Chi is essentially the transfer of electrons in the metabolic system of all living things.
 
