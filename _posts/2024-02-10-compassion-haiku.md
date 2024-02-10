@@ -2,7 +2,7 @@
 layout: post
 title:  "Compassion haiku"
 author: Fraser
-categories: [ haiku ]
+categories: [ haiku, compassion, anger ]
 image: assets/images/compassion-haiku.webp
 ---
 
